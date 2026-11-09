@@ -1,0 +1,16 @@
+#team {
+  background: var(--cloud);
+}
+
+.team-list-title {
+  font-weight: 500;
+  font-size: 20px;
+
+  line-height: 1.2;
+  text-align: center;
+  color: var(--navy-blue);
+}
+
+.team-list-text {
+  text-align: center;
+}

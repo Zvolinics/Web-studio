@@ -1,0 +1,18 @@
+.page-logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: var(--navy-blue);
+}
+
+.logo-span {
+  color: var(--iris);
+}
+
+.nav-link {
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--navy-blue);
+}
